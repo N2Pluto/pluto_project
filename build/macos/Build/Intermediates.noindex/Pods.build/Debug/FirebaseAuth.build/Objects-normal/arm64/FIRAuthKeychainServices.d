@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseAuth.build/module.modulemap \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Storage/FIRAuthKeychainServices.m \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Storage/FIRAuthKeychainServices.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRComponent.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRCoreDiagnosticsConnector.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRDependency.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRHeartbeatInfo.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRLogger.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuth_Internal.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseAuth/Interop/FIRAuthInterop.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Storage/FIRAuthUserDefaults.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthErrorUtils.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorInfo.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthInternalErrors.h

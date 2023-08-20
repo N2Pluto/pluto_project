@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "0e6ca758180ed7955b566533f53638770f3e3047a821cfdce6487d0568f6fef3"
+build_start_time: [1692542490, 421117000]
+build_end_time: [1692542492, 517852000]
+inputs:
+  "/Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Flutter/GeneratedPluginRegistrant.swift": [1692542479, 389666647]
+  "/Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Runner/AppDelegate.swift": [1686756961, 0]
+  "/Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Runner/MainFlutterWindow.swift": [1686756961, 0]

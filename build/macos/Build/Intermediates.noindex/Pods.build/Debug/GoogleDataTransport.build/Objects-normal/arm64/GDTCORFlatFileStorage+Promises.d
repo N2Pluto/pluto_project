@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/build/macos/Build/Intermediates.noindex/Pods.build/Debug/GoogleDataTransport.build/module.modulemap \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORFlatFileStorage+Promises.m \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORFlatFileStorage+Promises.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORFlatFileStorage.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORLifecycle.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORPlatform.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORStorageEventSelector.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORTargets.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORStorageProtocol.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORStorageSizeBytes.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/build/macos/Build/Intermediates.noindex/Pods.build/Debug/PromisesObjC.build/module.modulemap \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/Target\ Support\ Files/PromisesObjC/PromisesObjC-umbrella.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Testing.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORMetricsMetadata.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCOREventDropReason.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORStorageMetadata.h \
+  /Users/macbookair/Desktop/my_app/Githup/project_electricity_car/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORUploadBatch.h
